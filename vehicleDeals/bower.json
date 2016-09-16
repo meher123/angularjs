@@ -1,0 +1,21 @@
+{
+  "name": "vehicledemoapp",
+  "description": "a project will be developed using bootstrap,jquery,underscore and angularjs",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "underscore": "^1.8.3",
+    "angular": "^1.5.8",
+    "font-awesome": "fontawesome#^4.6.3"
+  }
+}
